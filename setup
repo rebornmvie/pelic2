@@ -1,11 +1,11 @@
 {
-"maintenance" : true,
+"maintenance" : false,
 "isUpdate" : true,
 "logo" : "https://github.com/rebornmvie/x4/raw/master/logoheader.png",
 "urlPromote" : "https://play.google.com/store/apps/details?id=com.nobitvque.hdindoxximoviviemax",
-"titlePromote" : "NOBI TV",
+"titlePromote" : "Ver Peliculas HD",
 "descPromote" : "Please update new app, this old app will not support soon. Watch High Quality HD Movies",
-"thumbPromote" : "https://github.com/rebornmvie/nobitv/raw/master/NOBI.png",
+"thumbPromote" : "https://lh3.googleusercontent.com/ymBg479GUpp5fi-vkKR20KPReRe4su1_lWDHt60KGbtwzJNOC-fBl4mh_jh7dGJlWkw",
 
 "adsInterval" : 5,
 "useFAN" : true
