@@ -7,4 +7,12 @@ javascript: (function() {
     spamdl[0].parentNode.parentNode.removeChild(spamdl[0].parentNode);
     var spamlink = document.getElementsByClassName('gmr-notification player-notification global-notification');
     spamlink[0].parentNode.removeChild(spamlink[0]);
+    var lnk = document.getElementById('clickfakeplayer');
+    if (window.addEventListener) {
+        document.addEventListener('click', function (e) {
+            if (e.target.id === lnk.id) {
+                e.preventDefault();
+            }
+        });
+    }
 })()
