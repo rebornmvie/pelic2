@@ -1,4 +1,7 @@
 javascript: (function() {
     document.getElementById(".age").href = "javascript: void(0)";
-    document.getElementsByClassName('dt_social_single')[0].style.visibility = 'hidden';
+    var appBanners = document.getElementsByClassName('dt_social_single');
+    for (var i = 0; i < appBanners.length; i ++) {
+    appBanners[i].style.display = 'none';
+    }
 })()
