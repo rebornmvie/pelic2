@@ -4,7 +4,7 @@ javascript: (function() {
     atop[0].parentNode.removeChild(atop[0]);
     }
     if (document.getElementById("dtw_socialbox-2")) {
-    document.getElementById('dtw_socialbox-2').style.display = "none";
+    document.getElementById("dtw_socialbox-2").style.display = "none";
     }
     var ctn = document.getElementsByClassName("content");
     if (ctn.length > 0) {
