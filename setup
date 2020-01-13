@@ -1,11 +1,11 @@
 {
 "maintenance" : false,
 "isUpdate" : true,
-"logo" : "https://github.com/rebornmvie/cvana/raw/master/logo.png",
+"logo" : "https://raw.githubusercontent.com/rebornmvie/pelic2/master/logobanner.png",
 "urlPromote" : "https://play.google.com/store/apps/details?id=com.mediosdecomunicacion.peliculasgratistiatos",
-"titlePromote" : "Ver Peliculas HD",
+"titlePromote" : "Ver Peliculas Gratis",
 "descPromote" : "Actualice la nueva aplicación, esta antigua aplicación no será compatible pronto. Mira películas HD de alta calidad",
-"thumbPromote" : "https://lh3.googleusercontent.com/O33RYWKNQuiiCGSWZ61GFs-N6e-gS_4qlqkgpkIaYJCc3DLa_VLbS2ZFr7n_gx7CIHM=s180-rw",
+"thumbPromote" : "https://raw.githubusercontent.com/rebornmvie/pelic2/master/icon.png",
 
 "adsInterval" : 5,
 "useFAN" : false
